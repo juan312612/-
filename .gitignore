@@ -1,0 +1,16 @@
+# Streamlit secrets（絕對不能上傳）
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# 本機資料檔
+*.xlsx
+pushed_records.json
+
+# OS
+.DS_Store
+Thumbs.db
